@@ -1,0 +1,6 @@
+name: TeachPlugin
+version: ${project.version}
+main: teachplugin.main.TeachPlugin
+api-version: 1.17
+authors: [ Love_Syuan520 ]
+description: 這只是一個教學用插件。
